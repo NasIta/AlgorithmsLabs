@@ -77,13 +77,12 @@ namespace Lab_5
             }
             return indexes;
         }
-    }
-}
 
-namespace Andrey
-{
-    class Program 
-    {
-        public static void Hello() { }
+        private static int DifSubstringsCount(string str) 
+        {
+
+
+            return 0;
+        }
     }
 }
